@@ -6,25 +6,9 @@ import Link from 'next/link'
 
 const NavLinks = [
     {
-        LinkText: "Home",
+        LinkText: "Popular",
         LinkTo: "/Home",
-    },
-    {
-        LinkText: "Store",
-        LinkTo: "https://www.primevideo.com/storefront/ref=atv_hom_pri_c_9zZ8D2_str_hom?contentType=home&contentId=store",
-    },
-    {
-        LinkText: "Live TV",
-        LinkTo: "https://www.primevideo.com/storefront/ref=atv_hom_pri_c_9zZ8D2_live?contentType=home&contentId=live",
-    },
-    {
-        LinkText: "Categories",
-        LinkTo: "https://www.primevideo.com/categories/ref=atv_hom_pri_c_9zZ8D2_cat",
-    },
-    {
-        LinkText: "My Stuff",
-        LinkTo: "https://www.primevideo.com/mystuff/ref=atv_hom_pri_c_9zZ8D2_mys",
-    },
+    }
 
 ]
 
