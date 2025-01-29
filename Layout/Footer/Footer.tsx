@@ -22,7 +22,7 @@ const Footer = () => {
     return (
         <footer className={styles.Footer}>
             <div className={styles.FooterRow}>
-                <img src="/assets/MainLogo.png" alt="Footer Logo" />
+                <img src="/assets/MainLogo.jpg" alt="Footer Logo" />
 
                 <div className={styles.FooterLinks}>
                     {

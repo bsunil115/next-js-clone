@@ -32,7 +32,7 @@ const Navbar = () => {
     return (
         <nav className={styles.NavbarMain}>
             <Link href={"/"}>
-                <img src="/assets/logo.png" alt="Logo" />
+                <img src="/assets/MainLogo.jpg" alt="Logo" />
             </Link>
 
             <div className={styles.NavLinks}>
