@@ -22,7 +22,7 @@ const Navbar = () => {
             <div className={styles.NavLinks}>
                 {
                     NavLinks.map((I) => (
-                        <Link target='_blank'
+                        <Link 
                             href={I.LinkTo}
                             key={I.LinkText}
                             className={styles.NavLink}
